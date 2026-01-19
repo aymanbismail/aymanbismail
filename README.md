@@ -6,7 +6,7 @@
 <p align="center"><b>Full-Stack Developer</b> · React / Next.js / TypeScript · Laravel</p>
 <p align="center">🎓 Software Engineering at <a href="https://en.up.edu.ps/">University of Palestine</a></p>
 
-## About
+## About · [Portfolio](https://www.aymanismail.me)
 I build clean, production-ready web apps with a focus on performance, modular architecture, and great UI.
 
 - ⚡ Frontend: **React / Next.js (App Router) / TypeScript / Tailwind**

@@ -1,32 +1,25 @@
 ![Github_header](https://user-images.githubusercontent.com/88898454/162613510-d24014b6-b4ea-4f67-ba4a-19b4d956ceab.png)
+[![Email](https://img.shields.io/badge/Email-hello%40aymanismail.me-EA4335?style=flat&labelColor=8B1C13&logo=gmail&logoColor=white)](mailto:hello@aymanismail.me) [![Instagram](https://img.shields.io/badge/Instagram-@aymanbhismail-E1306C?style=flat&labelColor=6D1637&logo=instagram&logoColor=white)](https://www.instagram.com/aymanbhismail) [![X](https://img.shields.io/badge/X-@aymanbismail-111827?style=flat&labelColor=000000&logo=x&logoColor=white)](https://x.com/aymanbismail) [![TikTok](https://img.shields.io/badge/TikTok-@aymanbismail-111827?style=flat&labelColor=000000&logo=tiktok&logoColor=white)](https://www.tiktok.com/@aymanbismail) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayman%20Ismail-0A66C2?style=flat&labelColor=083D73&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymanbismail/) [![Profile Views](https://komarev.com/ghpvc/?username=aymanbismail&label=Profile%20Views&color=0ea5e9&style=flat)](https://github.com/aymanbismail/aymanbismail) [![Followers](https://img.shields.io/github/followers/aymanbismail?label=Followers&style=flat&color=22c55e)](https://github.com/aymanbismail)
 
-<h1 align="center">Hi <img src="https://cdn.shopify.com/s/files/1/1061/1924/products/Waving_Hand_Sign_Emoji_Icon_ios10_grande.png?v=1571606113" width="30px" height="30px">, I'm Ayman Ismail</h1>
-<h3 align="center">A Software Enginner Student at <a href="https://en.up.edu.ps/">University of Palestine</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br>Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+<h1 align="center">Hi, I'm Ayman Ismail 👋</h1>
 
-- 🌱 I’m currently learning **React + Laravel**.
-- 💬 Ask Me About Anything I Am Happy To Help .
-- 💡 Always eager to work with others on projects and creative ideas
-- 🔰 All my works Made with ❤️ 
-- ⚡ Working with precision and passion is my hobby.
+<p align="center"><b>Full-Stack Developer</b> · React / Next.js / TypeScript · Laravel</p>
+<p align="center">🎓 Software Engineering <a href="https://en.up.edu.ps/">University of Palestine</a></p>
 
-[![Mail Badge](https://img.shields.io/badge/-rebestxteam@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:rebestxteam@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@ReBestX-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://www.instagram.com/rebestx)
-[![X Badge](https://img.shields.io/badge/-@ReBestX-000000?style=flat&labelColor=000000&logo=x&logoColor=white)](https://x.com/rebestx)
-[![TikTok Badge](https://img.shields.io/badge/-@ReBestX-171717?style=flat&labelColor=171717&logo=tiktok&logoColor=white)](https://www.tiktok.com/@rebest.x)
-[![LinkedIn Badge](https://img.shields.io/badge/-Ayman%20Ismail-0284c7?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymanbismail/)
-<br>
-[![](https://komarev.com/ghpvc/?username=ReBestX&color=blue&label=Profile%20Views)](https://github.com/ReBestX/ReBestX)
-[![](https://img.shields.io/github/followers/ReBestX?label=GitHub%20Followers)](https://github.com/ReBestX)
+## About
+I build clean, production-ready web apps with a focus on performance, modular architecture, and great UI.
 
+- ⚡ Frontend: **React / Next.js (App Router) / TypeScript / Tailwind**
+- 🧩 UI: **shadcn/ui + Framer Motion**
+- 🛠 Backend: **Laravel / REST APIs / MySQL**
+- 🎯 I care about: **clean code, UX details, scalability**
 
-### Skills
+## Tech Stack
+![Tech Stack](https://skillicons.dev/icons?perline=12&i=react,next,ts,tailwind,js,redux,php,laravel,mysql,postgres,redis,docker)
 
-![My Skills](https://skillicons.dev/icons?perline=12&i=html,css,bootstrap,tailwind,js,ts,react,next,php,laravel,redux,mysql,supabase)
+## Tools
+![Tools](https://skillicons.dev/icons?i=vscode,postman,notion,figma,git,github,vercel)
 
-### Tools
+---
 
-![My Skills](https://skillicons.dev/icons?i=vscode,postman,notion)
-
-### Others
-
-![My Skills](https://skillicons.dev/icons?i=npm,github,netlify,vercel,stackoverflow)
+<p align="center"><i>Open to collaboration and impactful projects.</i></p>

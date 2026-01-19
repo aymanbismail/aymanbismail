@@ -4,7 +4,7 @@
 <h1 align="center">Hi, I'm Ayman Ismail 👋</h1>
 
 <p align="center"><b>Full-Stack Developer</b> · React / Next.js / TypeScript · Laravel</p>
-<p align="center">🎓 Software Engineering <a href="https://en.up.edu.ps/">University of Palestine</a></p>
+<p align="center">🎓 Software Engineering at <a href="https://en.up.edu.ps/">University of Palestine</a></p>
 
 ## About
 I build clean, production-ready web apps with a focus on performance, modular architecture, and great UI.
